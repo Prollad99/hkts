@@ -1,3 +1,5 @@
 User-agent: Mediapartners-Google
 Disallow:
 User-agent: * Allow: /
+
+Sitemap: https://haktuts.blog/sitemap.xml
