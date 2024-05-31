@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "https://haktuts.blog/*"
-  to = "https://coinmaster.haktuts.blog/:splat"
-  status = 200
-  force = true
